@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="Rebuilders.Tests_SavedSearchesScreen(Android).Verify_Tapping_SavedSearch_Shows_Results" /><Add Test="Rebuilders.Tests_SavedSearchesScreen(Android).Verify_Search_Saved" /></Playlist>

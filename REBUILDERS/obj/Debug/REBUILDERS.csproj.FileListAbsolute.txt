@@ -1,0 +1,13 @@
+C:\TFS\LKQ\Rebuilders\REBUILDERS\bin\Debug\Rebuilders.dll.config
+C:\TFS\LKQ\Rebuilders\REBUILDERS\bin\Debug\Rebuilders.dll
+C:\TFS\LKQ\Rebuilders\REBUILDERS\bin\Debug\Rebuilders.pdb
+C:\TFS\LKQ\Rebuilders\REBUILDERS\bin\Debug\Newtonsoft.Json.dll
+C:\TFS\LKQ\Rebuilders\REBUILDERS\bin\Debug\nunit.framework.dll
+C:\TFS\LKQ\Rebuilders\REBUILDERS\bin\Debug\Xamarin.UITest.dll
+C:\TFS\LKQ\Rebuilders\REBUILDERS\bin\Debug\Newtonsoft.Json.xml
+C:\TFS\LKQ\Rebuilders\REBUILDERS\bin\Debug\nunit.framework.xml
+C:\TFS\LKQ\Rebuilders\REBUILDERS\bin\Debug\Xamarin.UITest.xml
+C:\TFS\LKQ\Rebuilders\REBUILDERS\obj\Debug\REBUILDERS.csprojResolveAssemblyReference.cache
+C:\TFS\LKQ\Rebuilders\REBUILDERS\obj\Debug\REBUILDERS.csproj.CoreCompileInputs.cache
+C:\TFS\LKQ\Rebuilders\REBUILDERS\obj\Debug\Rebuilders.dll
+C:\TFS\LKQ\Rebuilders\REBUILDERS\obj\Debug\Rebuilders.pdb

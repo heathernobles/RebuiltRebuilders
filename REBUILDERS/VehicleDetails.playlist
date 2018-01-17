@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="Rebuilders.Pages.Tests_VehicleDetails(Android).VerifyLocationMap" /><Add Test="Rebuilders.Pages.Tests_VehicleDetails(Android).VerifyEmailSales" /><Add Test="Rebuilders.Pages.Tests_VehicleDetails(Android).VerifyCallSales" /><Add Test="Rebuilders.Pages.Tests_VehicleDetails(Android).InitialLoad_VehicleDetailsScreen" /></Playlist>
